@@ -1,6 +1,6 @@
 # SRET-INT200-JUNE2021
-Developers resources
+Developer's resources
 
-17 June 2021 - HTML5 Quick Reference Guide
+1. 17 June 2021 - HTML5 Quick Reference Guide
 
-17 June 2021 - Getting started with Angular
+2. 17 June 2021 - Getting started with Angular
