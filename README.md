@@ -1,7 +1,7 @@
 # SRET-INT200-JUNE2021
 Developer's resources
-[TEXT TO SHOW](actual URL to navigate)
-1. [17 June 2021 - HTML5 Quick Reference Guide]()
+
+1. [17 June 2021 - HTML5 Quick Reference Guide](https://github.com/scholargj/SRET-INT200-JUNE2021/blob/master/HTML5_Quick_Reference_Guide_ipynb.ipynb)
 
 2. #17 June 2021 - Push files to remote repository.
 
