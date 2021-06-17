@@ -9,4 +9,4 @@ Developer's resources
 
 [4. 17 June 2021 - Getting started with Angular](https://github.com/scholargj/SRET-INT200-JUNE2021/blob/master/Getting_started_with_Angular_.ipynb)
 
-[5. 17 June 2021 - Intergration of Bootstrap into Angular Project](https://github.com/scholargj/SRET-INT200-JUNE2021/blob/master/Integrating_Bootstrap_NavBar.ipynb)
+[5. 17 June 2021 - Integration of Bootstrap into Angular Project](https://github.com/scholargj/SRET-INT200-JUNE2021/blob/master/Integrating_Bootstrap_NavBar.ipynb)
