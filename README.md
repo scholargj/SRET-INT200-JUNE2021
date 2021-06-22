@@ -13,4 +13,4 @@ Developer's resources
 
 [6. 22 June 2021 - Adding Images, logo on navbar in Angular Project](https://github.com/scholargj/SRET-INT200-JUNE2021/blob/master/Angular_Adding_Images_.ipynb)
 
-[7. 22 June 2021 - Using Structural and Custom Directives in Angular Project]()
+[7. 22 June 2021 - Using Structural and Custom Directives in Angular Project](https://github.com/scholargj/SRET-INT200-JUNE2021/blob/master/Angular_Structural_and_Custom_Directive_.ipynb)
