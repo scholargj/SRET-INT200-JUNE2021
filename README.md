@@ -22,3 +22,5 @@ Developer's resources
 [10. 26 June 2021 - Binding data to view and design data flows in Angular Project](https://github.com/scholargj/SRET-INT200-JUNE2021/blob/master/Angular_Data_Binding_.ipynb)
 
 [11. 26 June 2021 - How to reuse components in a Angular Project](https://github.com/scholargj/SRET-INT200-JUNE2021/blob/master/Angular_Reusable_Components_.ipynb)
+
+[12. 26 June 2021 - Authentication and Authorisation](https://github.com/scholargj/SRET-INT200-JUNE2021/blob/master/Authentication_and_Authorisation.ipynb)
