@@ -18,3 +18,5 @@ Developer's resources
 [8. 22 June 2021 - Directives: Using *ngFor  in Angular Project](https://github.com/scholargj/SRET-INT200-JUNE2021/blob/master/Directives_ngFor.ipynb)
 
 [9. 22 June 2021 - Using Attribute directive in Angular Project](https://github.com/scholargj/SRET-INT200-JUNE2021/blob/master/Angular_Attribute_Directive_.ipynb)
+
+[10. 26 June 2021 - Binding data to view and design data flows in Angular Project](https://github.com/scholargj/SRET-INT200-JUNE2021/blob/master/Angular_Data_Binding_.ipynb)
