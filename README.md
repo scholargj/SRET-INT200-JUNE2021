@@ -28,3 +28,5 @@ Developer's resources
 [13. 26 June 2021 - Sign up Forms Login, register, reset password UI designs in Angular Project](https://github.com/scholargj/SRET-INT200-JUNE2021/blob/master/2.1%20signup-form.zip)
 
 [14. 30 June 2021 - FULL STACK WEB DEVELOPMENT-INSTALLATION GUIDE](https://github.com/scholargj/SRET-INT200-JUNE2021/blob/master/Installation_Guide.ipynb)
+
+[15. 05 JULY 2021 - FULL STACK WEB DEVELOPMENT-Django REST API Methods GET, PUT, POST, DELETE](https://github.com/scholargj/SRET-INT200-JUNE2021/blob/master/DjangoRESTAPI.ipynb)
