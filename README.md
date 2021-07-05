@@ -30,3 +30,6 @@ Developer's resources
 [14. 30 June 2021 - FULL STACK WEB DEVELOPMENT-INSTALLATION GUIDE](https://github.com/scholargj/SRET-INT200-JUNE2021/blob/master/Installation_Guide.ipynb)
 
 [15. 05 JULY 2021 - FULL STACK WEB DEVELOPMENT-Django REST API Methods GET, PUT, POST, DELETE](https://github.com/scholargj/SRET-INT200-JUNE2021/blob/master/DjangoRESTAPI.ipynb)
+
+[16. 05 JULY 2021 - FULL STACK WEB DEVELOPMENT-Testing Django REST API Methods GET, PUT, POST, DELETE](https://github.com/scholargj/SRET-INT200-JUNE2021/blob/master/TestingDjangoRESTAPI.ipynb)
+
