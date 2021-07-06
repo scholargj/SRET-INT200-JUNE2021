@@ -33,3 +33,5 @@ Developer's resources
 
 [16. 05 JULY 2021 - FULL STACK WEB DEVELOPMENT-Testing Django REST API Methods GET, PUT, POST, DELETE](https://github.com/scholargj/SRET-INT200-JUNE2021/blob/master/TestingDjangoRESTAPI.ipynb)
 
+[17. 06 JULY 2021 - FULL STACK WEB DEVELOPMENT-Updated on 6JULY21 Django REST API Methods GET, PUT, POST, DELETE](https://github.com/scholargj/SRET-INT200-JUNE2021/blob/master/06July2021DjangoRESTAPI.ipynb)
+
