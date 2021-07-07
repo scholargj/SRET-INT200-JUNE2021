@@ -39,5 +39,10 @@ Developer's resources
 [18. 06 JULY 2021 - FULL STACK WEB DEVELOPMENT-How to upload Profile picture Django REST API](https://github.com/scholargj/SRET-INT200-JUNE2021/blob/master/06July2021TestingPhotoUpload.ipynb)
 
 
+[19. 07 JULY 2021 - FULL STACK WEB DEVELOPMENT-Updated on 7JULY21 Django REST API Methods GET, PUT, POST, DELETE](https://github.com/scholargj/SRET-INT200-JUNE2021/blob/master/07July2021DjangoRESTAPI.ipynb)
+
+
+
+
 
 
