@@ -41,7 +41,7 @@ Developer's resources
 
 [19. 07 JULY 2021 - FULL STACK WEB DEVELOPMENT-Updated on 7JULY21 Django REST API Methods GET, PUT, POST, DELETE](https://github.com/scholargj/SRET-INT200-JUNE2021/blob/master/07July2021DjangoRESTAPI.ipynb)
 
-
+[20. 07 JULY 2021 - FULL STACK WEB DEVELOPMENT-Angular Frontend UI Components and services to consume REST API](https://github.com/scholargj/SRET-INT200-JUNE2021/blob/master/RESTAPImethods_AngularProject.ipynb)
 
 
 
