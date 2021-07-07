@@ -43,6 +43,6 @@ Developer's resources
 
 [20. 07 JULY 2021 - FULL STACK WEB DEVELOPMENT-Angular Frontend UI Components and services to consume REST API](https://github.com/scholargj/SRET-INT200-JUNE2021/blob/master/RESTAPImethods_AngularProject.ipynb)
 
-
+[21. 07 JULY 2021 - FULL STACK WEB DEVELOPMENT-Adding Bootstrap and Routing](https://github.com/scholargj/SRET-INT200-JUNE2021/blob/master/Bootstrap%26Routing_Fullstack.ipynb)
 
 
