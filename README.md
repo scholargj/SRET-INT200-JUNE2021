@@ -46,3 +46,10 @@ Developer's resources
 [21. 10 JULY 2021 - FULL STACK WEB DEVELOPMENT-Continuation of Post 20: Adding Bootstrap and Routing](https://github.com/scholargj/SRET-INT200-JUNE2021/blob/master/Bootstrap%26Routing_Fullstack.ipynb)
 
 [22. 10 JULY 2021 - FULL STACK WEB DEVELOPMENT-Continuation of Post 21: Display Department Page](https://github.com/scholargj/SRET-INT200-JUNE2021/blob/master/Department_Page_REST_API_GET.ipynb)
+
+[23. 11 JULY 2021 - FULL STACK WEB DEVELOPMENT-Continuation of Post 22: Modal PopUp window](https://github.com/scholargj/SRET-INT200-JUNE2021/blob/master/Modal_PopUpPage.ipynb)
+
+
+
+
+
