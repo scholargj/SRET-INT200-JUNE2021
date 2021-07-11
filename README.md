@@ -46,3 +46,6 @@ Developer's resources
 [21. 07 JULY 2021 - FULL STACK WEB DEVELOPMENT-Adding Bootstrap and Routing](https://github.com/scholargj/SRET-INT200-JUNE2021/blob/master/Bootstrap%26Routing_Fullstack.ipynb)
 
 
+[22. 10 JULY 2021 - FULL STACK WEB DEVELOPMENT-Consuming RestAPI in Angular Project](https://github.com/scholargj/SRET-INT200-JUNE2021/blob/master/RESTAPImethods_AngularProject.ipynb)
+
+
