@@ -49,7 +49,7 @@ Developer's resources
 
 [23. 11 JULY 2021 - FULL STACK WEB DEVELOPMENT-Continuation of Post 22: Modal PopUp window](https://github.com/scholargj/SRET-INT200-JUNE2021/blob/master/Modal_PopUpPage.ipynb)
 
-
+[24. 11 JULY 2021 - FULL STACK WEB DEVELOPMENT-Continuation of Post 23: Edit Modal PopUp window](https://github.com/scholargj/SRET-INT200-JUNE2021/blob/master/Edit_Modal_PopUpPage.ipynb)
 
 
 
