@@ -55,6 +55,7 @@ Developer's resources
 
 [26. 11 JULY 2021 - FULL STACK WEB DEVELOPMENT-Continuation of Post 25: Demo of Delete Department](https://github.com/scholargj/SRET-INT200-JUNE2021/blob/master/Demo_of_Delete_Department_Page.ipynb)
 
+[27. 12 JULY 2021 - FULL STACK WEB DEVELOPMENT-Continuation of Post 26: Display Employee Page](https://github.com/scholargj/SRET-INT200-JUNE2021/blob/master/Employee_Page_REST_API_GET.ipynb)
 
 
 
